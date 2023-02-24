@@ -83,7 +83,7 @@ new Vue({
         },
         {
           name: "SLEEPIN!",
-          artist: "Run Boy Run",
+          artist: "Nobigdyl",
           cover: "/img/10.jpg",
           source: "/mp3/10.mp3",
           url: "https://www.youtube.com/watch?v=862qnK96gs0",
