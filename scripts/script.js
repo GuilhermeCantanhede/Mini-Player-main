@@ -90,8 +90,8 @@ new Vue({
           favorited: false
         },
         {
-          name: "Samm Henshaw",
-          artist: "Church",
+          name: "church",
+          artist: "Samm Henshaw",
           cover: "/img/11.jpg",
           source: "/mp3/11.mp3",
           url: "https://www.youtube.com/watch?v=I_8-P4eZ1jA",
